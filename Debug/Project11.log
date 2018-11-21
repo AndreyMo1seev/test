@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\дн\source\repos\project11\project11\source.cpp(63): warning C4101: flag: неиспользованная локальная переменная
+c:\users\дн\source\repos\project11\project11\source.cpp(106): warning C4101: pos: неиспользованная локальная переменная
+c:\users\дн\source\repos\project11\project11\source.cpp(106): warning C4101: st: неиспользованная локальная переменная
+c:\users\дн\source\repos\project11\project11\source.cpp(161): warning C4101: fact: неиспользованная локальная переменная
+c:\users\дн\source\repos\project11\project11\source.cpp(217): warning C4101: as: неиспользованная локальная переменная
+  Project11.vcxproj -> C:\Users\дн\source\repos\Project11\Debug\Project11.exe
