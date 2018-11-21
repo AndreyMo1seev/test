@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <time.h>
-//#define size 10000
+
 
 void print_array(int *a, int n) {
 	for (int i = 0; i < n; i++) {
